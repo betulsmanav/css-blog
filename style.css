@@ -1,0 +1,25 @@
+body{
+    border: 2px solid blue;
+    height: 400px;
+    width: 1500px;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+#image{
+    float: left;
+    padding: 20px;
+    /* margin-right: 40px;
+    margin-top: 40px; */
+    margin: 40px;
+}
+
+.title{
+    text-align-last: ;
+    padding-top: 40px;
+    margin-top: 40px;
+}
+.desciription{
+    text-align: justify;
+    margin-right: 60px;
+    
+}
